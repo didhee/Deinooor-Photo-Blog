@@ -1,0 +1,20 @@
+body {
+     background-color: #fffff0;
+}
+
+nav {
+     font-family: lexend, sans-serif;
+     font-size: 1.5em;
+     font-weight: 600;
+     margin-left: calc(10%/6);
+     border-bottom: 1px solid #a7a4a4;
+     width: 30%;
+     margin-left: calc(10%/6);
+     padding: 0.9em 0;
+     color: #000000;
+}
+
+img {
+     width: 30%;
+     margin: calc(10%/6);
+}
